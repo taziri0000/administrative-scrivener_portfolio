@@ -446,8 +446,8 @@ header.scrolled{
 .strength-content h2{
 
     margin:20px 0;
-
     font-size:2.5rem;
+    white-space: no-wrap;
 
 }
 
